@@ -1,0 +1,6 @@
+[submodule "professor-s-keio-portal"]
+	path = professor-s-keio-portal
+	url = https://github.com/rossoandoy/professor-s-keio-portal.git
+[submodule "okubo-personal-page"]
+	path = okubo-personal-page
+	url = https://github.com/rossoandoy/okubo-personal-page.git
